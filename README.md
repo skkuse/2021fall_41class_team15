@@ -1,1 +1,3 @@
-# SWE_TEAM15
+# Smart Digital Library, Metaverse Dido
+# SWE TEAM15
+Team : Kim Keunha
