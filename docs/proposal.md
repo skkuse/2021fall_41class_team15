@@ -1,4 +1,5 @@
 Project : Smart Digital Library, Metaverse Dido
+
 Overview:
 현재 캠퍼스의 디지털 도서관을 제대로 이용하지 못하는 상황이고, 어떤 학생들은 한번도 이용하지 못했을 것이다. 이 프로젝트의 목적은 디지털 도서관 이용에 익숙함을 더하고, 사이버 공간에서의 시스템 예약과 회의 시스템을 조성할 것이다. 
 Goal
