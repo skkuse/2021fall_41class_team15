@@ -2,3 +2,4 @@
 # SWE TEAM15
 Team : Kim Keunha
        Kim Minsu
+       Cho Gyeonghyeon
