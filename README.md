@@ -5,3 +5,4 @@ Kim Keunha<br/>
 Kim Minsu<br/>
 Cho Gyeonghyeon<br/>
 Choe UkCheol<br/>
+Aizat Hamizuddin Bin Azlan<br/>
