@@ -6,4 +6,5 @@ Kim Minsu<br/>
 Cho Gyeonghyeon<br/>
 Choe UkCheol<br/>
 Aizat Hamizuddin Bin Azlan<br/>
-Fatdzirul Izzat Bin Abdul Radzi<br>
+Fatdzirul Izzat Bin Abdul Radzi<br/>
+Lee Dasol<br/>
